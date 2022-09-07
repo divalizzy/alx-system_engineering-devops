@@ -1,1 +1,2 @@
-VimCrypt~03!„§À-åÉ±~s˜ã}6'üQşwÈ…Š^æSv0T¢4l•R{¡ağaıná¢³_&mÔ1
+#!/bin/bash
+export PATH="$PATH:/action"
